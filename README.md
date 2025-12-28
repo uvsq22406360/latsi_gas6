@@ -61,13 +61,11 @@ Nous avons implémenté les étapes 1 à 4 du sujet.
 
 - **Commentaires** : `REM`.
 
-### Extensions (Optionnel)
+### Extensions 
 
-(Coche ou décoche ce que tu as vraiment fait, c'est pour l'étape 4 "Extensions" )
-
-- [ ] Affectations multiples (`X=1, Y=2`).
-- [ ] Affectations simultanées (`X,Y = Y,X`).
-- [ ] Sous-routines (`SOUSROUTINE` / `RETOURNE`).
+- Affectations multiples (`X=1, Y=2`).
+- Affectations simultanées (`X,Y = Y,X`).
+- Sous-routines (`SOUSROUTINE` / `RETOURNE`).
 
 ---
 
